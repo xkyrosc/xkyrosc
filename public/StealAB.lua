@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xkyrosc1-ops/script/refs/heads/main/SAB.lua",true))()
